@@ -1,0 +1,20 @@
+{
+  "name": "03_image_abstraction_layer",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "axios": "^0.16.1",
+    "express": "^4.15.2",
+    "google-images": "^2.1.0",
+    "moment": "^2.18.1",
+    "mongodb": "^2.2.26",
+    "mongoose": "^4.9.8",
+    "request": "^2.81.0"
+  }
+}
